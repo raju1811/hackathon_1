@@ -1,0 +1,17 @@
+table, td {
+    border: 1px solid;
+  }
+table{
+    width: 60%;
+    border-collapse: collapse;
+    position: absolute;
+    left: 20%;
+    background-color: #232323;
+}
+td{
+    text-align: center;
+    padding: 12px;
+}
+a{
+    color: #fff;
+}
